@@ -1,1 +1,1 @@
-# arc
+# Plantilla del proyecto 26
